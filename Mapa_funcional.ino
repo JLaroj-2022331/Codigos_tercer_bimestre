@@ -1,3 +1,16 @@
+/*
+ * Fundacion Kinal
+ * Centro educativo tecnico laboral Kinal
+ * Electronica
+ * Grado: Quinto
+ * Sección: A
+ * Curso: Taller de electronica digital y reparación de computadoras I
+ * Nombre: Josue David Antonio Laroj Gallina
+ * Carnet: 2022331
+ * Proyecto: Mapa de Guatemala
+*/
+
+
 #include <Wire.h>
 #include <PCF8574.h>
 
